@@ -1,0 +1,24 @@
+.Form-Container {
+    text-align: center;
+    font-size: 30px;
+}
+
+input{
+    font-size: 30px;
+    width: 400px;
+    height: 25px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f2f2f2;
+}
+
+.Submit-Data-Buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.link {
+    text-decoration: none;
+}
